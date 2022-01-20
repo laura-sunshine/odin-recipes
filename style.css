@@ -1,0 +1,33 @@
+h1 {
+    color: palegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.Green {
+    color: palegreen;
+    font-weight: bold;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+    font-size: 18px;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: mediumseagreen
+}
+
+button.recipe {
+    background-color: green;
+    font-size: 22px;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 4px;
+
+}
